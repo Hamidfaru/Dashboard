@@ -162,12 +162,12 @@ th{
     color: aquamarine;
     background: #5d2727;
 }
-.prise, .count{
+.price, .count{
     padding: 6px;
     border-radius: 6px;
 
 }
-.prise{
+.price{
     background:green;
 }
 .count{
